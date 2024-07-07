@@ -1,3 +1,3 @@
-###Practice With Palindromes
+# Practice With Palindromes
 
-#little practice for my java skills 
+### little practice for my java skills 
